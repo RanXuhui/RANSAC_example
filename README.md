@@ -13,5 +13,5 @@ A commonly used technique for fitting model parameters is using the least square
 - Matplotlib
 
 ## References
-[Wikipedia entry](https://en.wikipedia.org/wiki/Random_sample_consensus)
-[EGGN 512 - Lecture 27-1 RANSAC](https://www.youtube.com/watch?v=NKxXGsZdDp8)
+- [Wikipedia entry](https://en.wikipedia.org/wiki/Random_sample_consensus)
+- [EGGN 512 - Lecture 27-1 RANSAC](https://www.youtube.com/watch?v=NKxXGsZdDp8)
