@@ -3,9 +3,7 @@
 Python example of RANSAC algorithm for fitting 2D line of best fit
 
 ## Motivation
-Using least squares algorithms to fit model parameters can produce poor model fit when there are
-
-A commonly used technique for fitting model parameters is using the least squares algorithm. However, least squares algorithms are very sensitive to outliers, which can lead to poor model fit on such data sets. The RANSAC algorithm overcomes this issue by using sampling to find the model parameters which explain as much of the data as possible. 
+A commonly used technique for fitting model parameters is the least squares algorithm. However, least squares algorithms are very sensitive to outliers, which can lead to poor model fit on such data sets. The RANSAC algorithm overcomes this issue by using sampling to find the model parameters which explain as much of the data as possible. 
 
 ## Requirements
 - Python
